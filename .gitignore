@@ -1,0 +1,6 @@
+hw4/sgns.merge.char
+hw4/sgns.merge.word
+hw4/merge_sgns_bigram_char300.txt
+text/chinese-novel-master/*
+*.pth
+hw4/logs/*
